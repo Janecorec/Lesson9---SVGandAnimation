@@ -1,0 +1,15 @@
+    <svg width="240" height="240" 
+    fill="none" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="face" viewbox="0 0 240 240">
+    <circle cx="110" cy="110" r="100" stroke-width="20" fill="#fbd971"/>
+    <circle cx="60" cy="80" r="15" stroke-width="10" fill="#af8066"/>
+    <circle cx="150" cy="80" r="15" stroke-width="10" fill="#af8066"/>
+    <polyline 
+    points="50,160 160,160"
+    stroke="#f0c419"
+    stroke-width="10"
+    stroke-linecap="round"
+    />
+
+    </symbol>
+    </svg>
